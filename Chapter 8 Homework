@@ -1,11 +1,9 @@
-class XXXX(){
+/*Homework Chapter 8
+Add the following accessor method to the Point Class:
+public int quadrant()
+*/
 
-
-
-
-
-
-
+class point(){
 
 public static void main(String[] args){
 
@@ -13,9 +11,10 @@ public static void main(String[] args){
 
 }
 
+public int quadrant(){
 
 
-
+}
 
 
 
