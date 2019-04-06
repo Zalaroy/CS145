@@ -9,21 +9,15 @@ Quadrants 4 contains all points with positive x but negative y.
 If the point lies directly on the x and/or y axis, return 0.
 */
 
-class point(){
 
-public static void main(String[] args){
+public class Main {
+    public static void main(String[] args) {
+        Integer i = new Integer(2);
+        setToThree(i);
+        System.out.println(i);
+    }
 
-
-
+    public static void setToThree(Integer i) {
+        i = new Integer(3);
+    }
 }
-
-public int quadrant(q1,12,q3,q4){
-
-
-}
-
-
-
-}
-
-public int 
