@@ -17,7 +17,7 @@ public static void main(String[] args){
 
 }
 
-public int quadrant(){
+public int quadrant(q1,12,q3,q4){
 
 
 }
@@ -25,3 +25,5 @@ public int quadrant(){
 
 
 }
+
+public int 
