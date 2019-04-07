@@ -12,9 +12,8 @@ If the point lies directly on the x and/or y axis, return 0.
 
 public class Main {
     public staic void main(String[] args) {
-        Integer i = new Integer(2);
-        setToThree(i);
-        System.out.println(i);
+
+        //System.out.println(i);
     }
 
     public static void testMethod(Int i) {
@@ -22,7 +21,9 @@ public class Main {
     }
 
 
-public int quadrant() {
+//below method returns an int, and the int it returns will tell you which Quadrant based on x and y coords
+//DO I NEED TO INITIATE X ND Y public int quadrant
+() {
 
     if(this.y > 0 && this.x > 0) {
 
