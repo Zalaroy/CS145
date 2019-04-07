@@ -12,7 +12,7 @@ If the point lies directly on the x and/or y axis, return 0.
 
 public class Point {
     public staic void main(String[] args) {
-
+        
         //System.out.println(i);
     }
 
@@ -29,7 +29,7 @@ public class Point {
 
         return 2;
 
-    } else if(this.x < 0 && this.y < 0) {
+    } else if(this.x < 0 && this.y < 0) 
 
         return 3;
 
@@ -38,11 +38,18 @@ public class Point {
         return 4;
 
     } else {
-
+    }
+    
         return 0;
+//below method is a scanner. We will ask for a value, and plug it intoa scanner, determining where our point lands
+int methoScanner(){ 
+    
+   Scanner sc = new Scanner(System.in);
+   int i = sc.nextInt();
 
     }
 
 }
+
 
 }
