@@ -1,4 +1,4 @@
-
+import java.*;
 
 class guessgame{
 
@@ -6,7 +6,11 @@ class guessgame{
 
 
 
-main(){
+main(){ public static main void(String[] args)
+
+random randguess = new random();
+int = ?
+
 
 }
 
