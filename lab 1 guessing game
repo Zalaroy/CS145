@@ -1,61 +1,27 @@
+PRELAB
+
+we need random number
+
+we need a method to create game
+
+we need a method to run the guessed number against an if else statement, if true, elseif false
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 import java.*;
-
-class guessgame{
-
-
-
-
-
-main(){ public static main void(String[] args)
-
-random randguess = new random();
-int = ?
-
-
-}
-
-
-
-
-
-//a method that introduces the game to the user
-introduction(string author){
-system.outprint("Welcome, this is a game to guess.............................................");
-}
-
-//
-a method to play one game with the user (just one game, not multiple games)
-method creategame(){
-
-}
-
-
-//a method to report overall results to the user
-method return results(){
-
-]
-
-
-
-
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-import java.util.Random;
-import java.util.Scanner;
-import java.lang.System;
-
 
 public class Game {
 
@@ -67,8 +33,7 @@ public class Game {
         System.out.println("Pick a number: ");
 
         Scanner inputnum = new Scanner(System.in);  //This number will be the max number the player has to guess too.
-        int maxnum;
-        maxnum = inputnum.nextInt();
+        int maxnum = inputnum.nextInt();
 
         Random rand = new Random();
         int number = rand.nextInt(maxnum);
