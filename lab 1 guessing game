@@ -1,3 +1,12 @@
+//*
+At a minimum, your program should have the following static methods in addition to method main:
+
+a method that introduces the game to the user
+a method to play one game with the user (just one game, not multiple games)
+a method to report overall results to the user
+*//
+
+
 class guessgame{
 
 
