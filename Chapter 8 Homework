@@ -41,15 +41,20 @@ public class Point {
     }
     
         return 0;
-//below method is a scanner. We will ask for a value, and plug it intoa scanner, determining where our point lands
-int methoScanner(){ 
-    
-   Scanner sc = new Scanner(System.in);
-   int i = sc.nextInt();
 
     }
 
 }
 
-
+        
+//below method is a scanner. We will ask for a value, and plug it intoa scanner, determining where our point lands
+int xyScanner(int x, int y){ 
+    
+   Scanner pointScanner = new Scanner(System.in);
+   //below line asks for a x coordinate
+   System.out.println("Enter 1 X coordinate: ");
+   int x = pointScanner.nextInt();
+   
+   System.out.println("Now, enter 1 Y coordinate: ");
+   int y = pointScanner.nextInt();
 }
