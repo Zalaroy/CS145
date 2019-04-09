@@ -57,7 +57,17 @@ public class GuessingGame {
    }
    
    public static void introduction() {
-	   System.out.println(“Welcome to the GUESSING GAME. Here, the computer will produce a number and you will do your best to guess it. Good luck!”);
+	   System.out.println(“This program allows you to play a guessing game.
+
+I will think of a number between 1 and
+
+100 and will allow you to guess until
+
+you get it. For each guess, I will tell you
+
+whether the right answer is higher or lower
+
+than your guess.")
 }
 
 
