@@ -1,0 +1,46 @@
+import java.util.Scanner;
+import java.util.Random;
+
+public class GuessingGame {
+   public static void main (String [] args) {
+
+  //Declare variables
+  Random randomNumber = new Random();
+  Scanner numIn = new Scanner(System.in);
+  int correctNumber = randomNumber.nextInt(//*100*//);
+  int numberOfTries = 0;
+  int success = 0;
+  int guess = 0;
+
+
+  //Logic and While Loop
+
+
+
+   while (success ==0)
+     {
+        System.out.println("PLease guess a number, betwen 1 and 100 inclusive: ");
+        guess = numIn.nextInt();
+        numberOfTries++;
+
+           if (guess < 1 || guess > 100){
+              System.out.println("I told you, the number is between 1 and 100. Now that you didnt follow therules, GOODBYE.");
+           }
+
+           else if (guess == computerValue){
+              success++;
+              System.out.println("Congratulations you won! Your numbers of tries was: " + numberOfTries + " and the number was: " + computerValue);
+
+           }
+           else if (guess < computerValue){
+              System.out.println("Your guess is too low!");
+           }
+           else if (guess > computerValue){
+              System.out.println("Your guess is too high!");
+    }
+    }
+
+
+
+   }
+}
