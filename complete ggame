@@ -3,7 +3,15 @@ import java.util.Random;
 
 public class GuessingGame {
    public static void main (String [] args) {
-
+   
+   introduction();
+   beginGame();
+   
+   
+   }
+   
+  public static void beginGame(){
+  
   //Declare variables
   Random randomNumber = new Random();
   Scanner numIn = new Scanner(System.in);
@@ -43,4 +51,14 @@ public class GuessingGame {
 
 
    }
+
+
+
+   }
+   
+   public static void introduction() {
+	   System.out.println(“Welcome to the GUESSING GAME. Here, the computer will produce a number and you will do your best to guess it. Good luck!”);
+}
+
+
 }
