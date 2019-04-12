@@ -1,6 +1,100 @@
 //labTwo_preLAb
 
 
+Pre-Lab Write Up
+
+Name: 	_Zachary R. Lavigueure_
+
+Lab:		_Critters______________
+
+1.	Describe in English what this program is supposed to do (not how it does it). This should be able to be your class comment at the top of your program (you may copy and paste this into your program later): The goal of this lab is to learn better how to define classes. In this world, our critters infect ppther species, propogating their DNA. The class Critter is given, and we extend Critter to XCritter. We will define behaviors such as moveLeft. 
+
+
+
+
+
+
+
+2.	List the separate tasks needed to accomplish what you described in part 1. These should be the individual methods you are going to have in your program (both public and private methods):
+
+Method 1 Name: _public Action get Move(CritterInfo info)_
+
+Method 2 Name: _public Color getColor()___________
+
+Method 3 Name: _public String toString()__________
+
+Method 4 Name: _public (return is one of 4 Action constants) getMove()
+
+
+List other methods below: 
+
+_______________________________________
+
+_______________________________________
+
+_______________________________________
+
+_______________________________________
+
+_______________________________________
+
+_______________________________________
+
+_______________________________________
+
+_______________________________________
+
+_______________________________________
+
+_______________________________________
+
+_______________________________________
+
+_______________________________________
+
+_______________________________________
+
+_______________________________________
+
+_______________________________________
+
+_______________________________________
+ 
+ 
+3.	For each of the tasks/methods in part 2, describe in English what they are supposed to do (not how they do it). Additionally, note any information each of the tasks need to accomplish their goal as well as any information they need to give back. These should be able to be used as your method comments in your program (you may copy and paste this into your program later):
+Method Name: _________________________________
+Method Description: 
+___________________________________________________________________
+___________________________________________________________________
+___________________________________________________________________
+Parameters (for each: type and what it represents): _______________
+Returns (type and what it represents): ____________________________
+Exceptions (type and when thrown): ________________________________
+
+Method Name: _________________________________
+Method Description: 
+____________________________________________________________________
+____________________________________________________________________
+____________________________________________________________________
+Parameters (for each: type and what it represents): ________________
+Returns (type and what it represents): _____________________________
+Exceptions (type and when thrown): _________________________________
+
+Method Name: _________________________________
+Method Description: 
+____________________________________________________________________
+____________________________________________________________________
+____________________________________________________________________
+Parameters (for each: type and what it represents): ________________ 
+____________________________________________________________________
+Returns (type and what it represents): _____________________________
+Exceptions (type and when thrown): _________________________________
+
+Continue below with the rest of the tasks/methods you listed from part 2: 
+4.	For each of the tasks in part 3, give a brief description in English of how you plan to accomplish the task. You may either describe it thoroughly in English, use pseudo-code, or use a combination of the 2:
+
+ 
+5.	What questions do you still have about this lab after reading through the specification and completing the pre-lab?
 
 
 
