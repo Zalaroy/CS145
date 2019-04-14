@@ -1,13 +1,14 @@
 //labTwo_preLAb
 
+((((((((((((((((((((((((((((we need to extneded the critter class, to establish the different critters. Where do i write my constructor method, to construct/define the critters I create? then, where do i create the newly created critters objects?(main? or ona differnetn file?)
+
+
 
 Pre-Lab Write Up
-
 Name: 	_Zachary R. Lavigueure_
-
 Lab:		_Critters______________
 
-1.	Describe in English what this program is supposed to do (not how it does it). This should be able to be your class comment at the top of your program (you may copy and paste this into your program later): The goal of this lab is to learn better how to define classes. In this world, our critters infect ppther species, propogating their DNA. The class Critter is given, and we extend Critter to XCritter. We will define behaviors such as moveLeft. 
+1.	Describe in English what this program is supposed to do (not how it does it). This should be able to be your class comment at the top of your program (you may copy and paste this into your program later): The goal of this lab is to learn better how to define classes. In this world, our critters infect ppther species, propogating their DNA. The class Critter is given, and we extend Critter to XCritter. We will define behaviors such as moveLeft.
 
 
 
