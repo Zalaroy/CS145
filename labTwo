@@ -1,5 +1,6 @@
 //labTwo_preLAb
 
+
 ((((((((((((((((((((((((((((we need to extneded the critter class, to establish the different critters. Where do i write my constructor method, to construct/define the critters I create? then, where do i create the newly created critters objects?(main? or ona differnetn file?)
 
 
@@ -12,7 +13,7 @@ Lab:		_Critters______________
 
 
 
-4 classes, orca, giant, bear, ect. 
+. i nthe end product, one file one class. in prelab though, we use one file. 4 classes, orca, giant, bear, ect. 
        4 species, wich have their own ruels(attributes), based on certian rules and attributes will infect others. strongest critter wins.
        defne constructor
 
