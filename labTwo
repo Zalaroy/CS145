@@ -12,8 +12,9 @@ Lab:		_Critters______________
 
 
 
-
-
+4 classes, orca, giant, bear, ect. 
+       4 species, wich have their own ruels(attributes), based on certian rules and attributes will infect others. strongest critter wins.
+       defne constructor
 
 
 2.	List the separate tasks needed to accomplish what you described in part 1. These should be the individual methods you are going to have in your program (both public and private methods):
