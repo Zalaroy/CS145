@@ -1,19 +1,19 @@
 //labTwo_preLAb
 
-
-((((((((((((((((((((((((((((we need to extneded the critter class, to establish the different critters. Where do i write my constructor method, to construct/define the critters I create? then, where do i create the newly created critters objects?(main? or ona differnetn file?)
+we will extneded the critter class, to establish the four different critters. (Where do i write my constructor method, to construct/define the critters I create? Then, where do i create the newly created critters objects?(main? or in whcih file file?)
 
 
 
 Pre-Lab Write Up
-Name: 	_Zachary R. Lavigueure_
-Lab:		_Critters______________
+Name: Zachary R. Lavigueure
+Lab: Critters
 
-1.	Describe in English what this program is supposed to do (not how it does it). This should be able to be your class comment at the top of your program (you may copy and paste this into your program later): The goal of this lab is to learn better how to define classes. In this world, our critters infect ppther species, propogating their DNA. The class Critter is given, and we extend Critter to XCritter. We will define behaviors such as moveLeft.
+1. Describe in English what this program is supposed to do (not how it does it). This should be able to be your class comment at the top of your program (you may copy and paste this into your program later): The goal of this lab is to learn better how to define classes.
+In this program, our critters infect other species, propogating our DNA. The class Critter is given, and we extend Critter to X_Critter. We will define behaviors such as moveLeft,---------.
 
 
 
-. i nthe end product, one file one class. in prelab though, we use one file. 4 classes, orca, giant, bear, ect. 
+inthe end product, one file one class. in prelab though, we use one file. 4 classes, orca, giant, bear, ect. 
        4 species, wich have their own ruels(attributes), based on certian rules and attributes will infect others. strongest critter wins.
        defne constructor.editing: uncomment the ciritter (Add frame) lines form main and define thos classes.
 
