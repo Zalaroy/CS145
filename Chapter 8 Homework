@@ -8,8 +8,18 @@ Quadrant 3 contains all points with negative x and y values.
 Quadrants 4 contains all points with positive x but negative y.
 If the point lies directly on the x and/or y axis, return 0.
 */
+//8.1
+//SELF-CHECK 1
+A procedure is a sequence of statements. Object oriented programming is meant to address the difficulties with procedural programming. In object oriented programming, the main modules in a program are classes, rather than procedures.
+//SELF-CHECK 2
+What is an object? How is it different forma class?
+An object is complex, and carries with it built-oin methods. A class is a blueprint, which you can create an object based from.
+//SELF-CHECK 4
+I dont know what this method produces
 
+//EXERCISES
 
+//1
 public class Point {
     public staic void main(String[] args) {
         
@@ -58,3 +68,16 @@ int xyScanner(int x, int y){
    System.out.println("Now, enter 1 Y coordinate: ");
    int y = pointScanner.nextInt();
 }
+//2
+
+//3
+
+//4
+
+//5
+
+//6
+
+//7
+
+//8
